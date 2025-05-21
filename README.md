@@ -1,8 +1,6 @@
-# Data-Science-Porftolio
-
-# 👋 Hi, I'm [Your Name]
-
-🎓 Aspiring Data Analyst / Data Scientist / Machine Learning Engineer  
+# Isaac's Portfolio
+---
+🎓 Data Scientist / Machine Learning Engineer  
 📊 Passionate about solving real-world problems through data  
 📍 Based in [Your Location] | 🌐 [Portfolio Website or LinkedIn](#)
 
