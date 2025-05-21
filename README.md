@@ -17,7 +17,25 @@
 **Version Control & Workflow:** Git, GitHub, Jupyter, VS Code
 
 ---
-## 📁 Featured Projects
+## 📁 SQL
+
+| 🧠 Project | 💡 Description | 🛠️ Tools & Skills | 🔗 Link |
+|-----------|----------------|------------------|--------|
+| **Customer Churn Prediction** | Predicted churn using logistic regression on telco data | Python, Pandas, Scikit-learn, Matplotlib | [GitHub](https://github.com/yourusername/churn-prediction) |
+| **Sales Dashboard** | Built an interactive sales report dashboard | Excel, Power BI, DAX, SQL | [GitHub](https://github.com/yourusername/sales-dashboard) |
+| **COVID-19 Data Analysis** | Performed EDA and visualized pandemic trends globally | Python, Plotly, Seaborn | [GitHub](https://github.com/yourusername/covid-analysis) |
+| **Movie Recommender System** | Content-based recommendation system with deployed app | Python, Scikit-learn, Streamlit, NLP | [GitHub](https://github.com/yourusername/movie-recommender) |
+
+## 📁 Python
+
+| 🧠 Project | 💡 Description | 🛠️ Tools & Skills | 🔗 Link |
+|-----------|----------------|------------------|--------|
+| **Customer Churn Prediction** | Predicted churn using logistic regression on telco data | Python, Pandas, Scikit-learn, Matplotlib | [GitHub](https://github.com/yourusername/churn-prediction) |
+| **Sales Dashboard** | Built an interactive sales report dashboard | Excel, Power BI, DAX, SQL | [GitHub](https://github.com/yourusername/sales-dashboard) |
+| **COVID-19 Data Analysis** | Performed EDA and visualized pandemic trends globally | Python, Plotly, Seaborn | [GitHub](https://github.com/yourusername/covid-analysis) |
+| **Movie Recommender System** | Content-based recommendation system with deployed app | Python, Scikit-learn, Streamlit, NLP | [GitHub](https://github.com/yourusername/movie-recommender) |
+
+## 📁 Power BI
 
 | 🧠 Project | 💡 Description | 🛠️ Tools & Skills | 🔗 Link |
 |-----------|----------------|------------------|--------|
@@ -27,27 +45,6 @@
 | **Movie Recommender System** | Content-based recommendation system with deployed app | Python, Scikit-learn, Streamlit, NLP | [GitHub](https://github.com/yourusername/movie-recommender) |
 
 
-## 📁 Featured Projects
-
-### 🧠 [Project Title – Machine Learning](https://github.com/yourusername/project-repo)
-**Problem:** Predict customer churn using machine learning  
-**Skills:** Scikit-learn, Pandas, Matplotlib, Logistic Regression  
-**Highlights:**
-- Cleaned and preprocessed dataset of 10,000+ customer records
-- Built and evaluated models (accuracy: 89%)
-- Visualized feature importance and model performance
-
----
-
-### 📊 [Project Title – Data Analysis + Visualization](https://github.com/yourusername/project-repo)
-**Problem:** Explore and visualize COVID-19 trends worldwide  
-**Skills:** Pandas, Seaborn, Plotly, Tableau  
-**Highlights:**
-- Performed EDA on WHO COVID-19 data
-- Created dashboards showing country-wise case growth
-- Shared key insights via blog post [link]
-
----
 
 ### ⚙️ [Project Title – SQL Analytics](https://github.com/yourusername/project-repo)
 **Problem:** Analyze e-commerce customer behavior  
