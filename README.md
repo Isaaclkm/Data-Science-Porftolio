@@ -1,4 +1,4 @@
-# Isaac's Portfolio
+# 🗺 Isaac's Portfolio
 ---
 🎓 Data Scientist / Machine Learning Engineer  
 📊 Passionate about solving real-world problems through data  
