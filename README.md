@@ -76,5 +76,5 @@
 ## 📫 Let's Connect
 
 - 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/isaac-felix-lkm/))
 - 🌐 [Portfolio Website](https://your-website.com)
