@@ -30,7 +30,7 @@
 
 | 🧠 Project | 💡 Description | 🛠️ Tools & Skills | 🔗 Link |
 |-----------|----------------|------------------|--------|
-| **Customer Churn Prediction** | Predicted churn using logistic regression on telco data | Python, Pandas, Scikit-learn, Matplotlib | [GitHub](https://github.com/yourusername/churn-prediction) |
+| **Tsunami Prediction Model** | Predicted using Random Forest and Logistic Regression | Python, Pandas, Scikit-learn, Matplotlib | [Kaggle]([https://github.com/yourusername/churn-prediction](https://www.kaggle.com/code/franklinfelix/tsunami-prediction-model)) |
 | **Sales Dashboard** | Built an interactive sales report dashboard | Excel, Power BI, DAX, SQL | [GitHub](https://github.com/yourusername/sales-dashboard) |
 | **COVID-19 Data Analysis** | Performed EDA and visualized pandemic trends globally | Python, Plotly, Seaborn | [GitHub](https://github.com/yourusername/covid-analysis) |
 | **Movie Recommender System** | Content-based recommendation system with deployed app | Python, Scikit-learn, Streamlit, NLP | [GitHub](https://github.com/yourusername/movie-recommender) |
