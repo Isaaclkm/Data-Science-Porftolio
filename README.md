@@ -31,7 +31,7 @@
 | 🧠 Project | 💡 Description | 🛠️ Tools & Skills | 🔗 Link |
 |-----------|----------------|------------------|--------|
 | **Tsunami Prediction Model** | Predicted using Random Forest and Logistic Regression | Python, Pandas, Scikit-learn, Matplotlib | [Kaggle](https://www.kaggle.com/code/franklinfelix/tsunami-prediction-model) |
-| **GDP EDA** | GDP exploratory data analysis | Python, Pandas, Scikit-learn, Matplotlib | [Kaggle]([https://github.com/yourusername/sales-dashboard](https://www.kaggle.com/code/franklinfelix/gdp-eda)) |
+| **GDP EDA** | GDP exploratory data analysis | Python, Pandas, Scikit-learn, Matplotlib | [Kaggle]((https://www.kaggle.com/code/franklinfelix/gdp-eda)) |
 | **COVID-19 Data Analysis** | Performed EDA and visualized pandemic trends globally | Python, Plotly, Seaborn | [GitHub](https://github.com/yourusername/covid-analysis) |
 | **Movie Recommender System** | Content-based recommendation system with deployed app | Python, Scikit-learn, Streamlit, NLP | [GitHub](https://github.com/yourusername/movie-recommender) |
 
