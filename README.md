@@ -38,7 +38,7 @@
 
 | 🧠 Project | 💡 Description | 🛠️ Tools & Skills | 🔗 Link |
 |-----------|----------------|------------------|--------|
-| **Coca Cola Dashboard** | Performed EDA and visualized KPIs from Coca Cola Sales in the US | [GitHub](https://github.com/Isaaclkm/DietCoke-Excel-Dashboard-Analysis/blob/main/README.md) |
+| **Coca Cola Dashboard** | Performed EDA and visualized KPIs from Coca Cola Sales in the US | Excel | [GitHub](https://github.com/Isaaclkm/DietCoke-Excel-Dashboard-Analysis/blob/main/README.md) |
 ## 📁 Power BI
 
 | 🧠 Project | 💡 Description | 🛠️ Tools & Skills | 🔗 Link |
