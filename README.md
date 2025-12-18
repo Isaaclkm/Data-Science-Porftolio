@@ -34,7 +34,11 @@
 | **COVID-19 Data Analysis** | Performed EDA and visualized pandemic trends globally | Python, Plotly, Seaborn | [GitHub](https://github.com/yourusername/covid-analysis) |
 | **Movie Recommender System** | Content-based recommendation system with deployed app | Python, Scikit-learn, Streamlit, NLP | [GitHub](https://github.com/yourusername/movie-recommender) |
 
+## 📁 Excel
 
+| 🧠 Project | 💡 Description | 🛠️ Tools & Skills | 🔗 Link |
+|-----------|----------------|------------------|--------|
+| **Coca Cola Dashboard** | Performed EDA and visualized KPIs from Coca Cola Sales in the US | [GitHub](https://github.com/Isaaclkm/DietCoke-Excel-Dashboard-Analysis/blob/main/README.md) |
 ## 📁 Power BI
 
 | 🧠 Project | 💡 Description | 🛠️ Tools & Skills | 🔗 Link |
