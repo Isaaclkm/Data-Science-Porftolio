@@ -2,7 +2,7 @@
 ---
 🎓 Data Scientist / Machine Learning Engineer  
 📊 Passionate about solving real-world problems through data  
-📍 Based in [Your Location] | 🌐 [Portfolio Website or LinkedIn](#)
+📍 Based in Santo Domingo | 🌐 [Linkedin](https://www.linkedin.com/in/isaac-felix-lkm)
 
 ---
 
