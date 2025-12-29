@@ -25,8 +25,21 @@
 | **GDP EDA** | GDP exploratory data analysis | Python, Pandas, Scikit-learn, Matplotlib | [Kaggle](https://www.kaggle.com/code/franklinfelix/gdp-eda) |
 | **Cocrodile EDA** | Performed EDA and visualized cocrodile data | Python, Plotly, Seaborn | [GitHub](https://www.kaggle.com/code/franklinfelix/crocodile-eda) |
 
-## 📁 SQL
+## 📁 SQL & Database Management
 
+While many of my projects utilize SQL as a backend for data extraction, I am proficient in writing complex queries to transform raw data into actionable datasets.
+
+Core Technical Competencies:
+
+Data Transformation: Proficient in using CTEs (Common Table Expressions) and Subqueries to break down complex logic into readable, modular code.
+
+Advanced Analytics: Experienced with Window Functions (RANK, LEAD/LAG, ROW_NUMBER) for trend analysis and running totals.
+
+Relational Design: Strong understanding of Joins (Inner, Left, Self), Primary/Foreign key relationships, and database normalization.
+
+Performance: Skilled in optimizing query execution plans and managing large datasets for reporting efficiency.
+
+Note: My SQL skills are integrated into the data pipelines of the Power BI Dashboard and Python Analysis projects listed below.
 | 🧠 Project | 💡 Description | 🛠️ Tools & Skills | 🔗 Link |
 |-----------|----------------|------------------|--------|
 | **Customer Churn Prediction** | Predicted churn using logistic regression on telco data | Python, Pandas, Scikit-learn, Matplotlib | [GitHub](https://github.com/yourusername/churn-prediction) |
@@ -43,34 +56,12 @@
 
 | 🧠 Project | 💡 Description | 🛠️ Tools & Skills | 🔗 Link |
 |-----------|----------------|------------------|--------|
-| **Car Sales Dashboard** | Performed EDA and visualized KPIs from Car Sales Data | [GitHub](https://github.com/yourusername/churn-prediction) |
+| **Car Sales Dashboard** | Performed EDA and visualized KPIs from Car Sales Data | Power BI | [GitHub](https://github.com/Isaaclkm/Car_sales_dashboard/blob/main/README.md)|
 
 
-
-### ⚙️ [Project Title – SQL Analytics](https://github.com/yourusername/project-repo)
-**Problem:** Analyze e-commerce customer behavior  
-**Skills:** PostgreSQL, SQL Joins, CTEs, Aggregations  
-**Highlights:**
-- Wrote complex SQL queries to identify top products, customer lifetime value, and churn patterns
-- Built a KPI dashboard using Power BI
-
----
-
-### 🤖 [Project Title – NLP or Deep Learning](https://github.com/yourusername/project-repo)
-**Problem:** Sentiment analysis on product reviews  
-**Skills:** NLP, TextBlob, TF-IDF, Logistic Regression  
-**Highlights:**
-- Cleaned and vectorized text data
-- Built sentiment classifier (F1 score: 0.83)
-- Deployed with Streamlit [Live Demo](https://your-demo-link.com)
-
----
-
-
----
 
 ## 📫 Let's Connect
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: [your.email@example.com](mailto:isaacfelixmatos.email@gmail.com)
 - 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/isaac-felix-lkm/))
 - 🌐 [Portfolio Website](https://your-website.com)
