@@ -30,22 +30,10 @@
 While many of my projects utilize SQL as a backend for data extraction, I am proficient in writing complex queries to transform raw data into actionable datasets.
 
 Core Technical Competencies:
-
-Data Transformation: Proficient in using CTEs (Common Table Expressions) and Subqueries to break down complex logic into readable, modular code.
-
-Advanced Analytics: Experienced with Window Functions (RANK, LEAD/LAG, ROW_NUMBER) for trend analysis and running totals.
-
-Relational Design: Strong understanding of Joins (Inner, Left, Self), Primary/Foreign key relationships, and database normalization.
-
-Performance: Skilled in optimizing query execution plans and managing large datasets for reporting efficiency.
-
-Note: My SQL skills are integrated into the data pipelines of the Power BI Dashboard and Python Analysis projects listed below.
-| 🧠 Project | 💡 Description | 🛠️ Tools & Skills | 🔗 Link |
-|-----------|----------------|------------------|--------|
-| **Customer Churn Prediction** | Predicted churn using logistic regression on telco data | Python, Pandas, Scikit-learn, Matplotlib | [GitHub](https://github.com/yourusername/churn-prediction) |
-| **Sales Dashboard** | Built an interactive sales report dashboard | Excel, Power BI, DAX, SQL | [GitHub](https://github.com/yourusername/sales-dashboard) |
-| **COVID-19 Data Analysis** | Performed EDA and visualized pandemic trends globally | Python, Plotly, Seaborn | [GitHub](https://github.com/yourusername/covid-analysis) |
-| **Movie Recommender System** | Content-based recommendation system with deployed app | Python, Scikit-learn, Streamlit, NLP | [GitHub](https://github.com/yourusername/movie-recommender) |
+**Data Transformation:** Proficient in using CTEs (Common Table Expressions) and Subqueries to break down complex logic into readable, modular code.
+**Advanced Analytics:** Experienced with Window Functions (RANK, LEAD/LAG, ROW_NUMBER) for trend analysis and running totals.
+**Relational Design:** Strong understanding of Joins (Inner, Left, Self), Primary/Foreign key relationships, and database normalization.
+**Performance:** Skilled in optimizing query execution plans and managing large datasets for reporting efficiency.
 
 ## 📁 Excel
 
